@@ -1,0 +1,23 @@
+{
+  "name": "acingthekcnacom",
+  "version": "1.0.0",
+  "description": "website for acingthekcna.com",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadmcrowell/acingthekcnacom.git"
+  },
+  "keywords": [],
+  "author": "Chad Crowell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chadmcrowell/acingthekcnacom/issues"
+  },
+  "homepage": "https://github.com/chadmcrowell/acingthekcnacom#readme",
+  "devDependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}

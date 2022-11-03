@@ -1,0 +1,8 @@
+# this is an example '_redirect' file
+# examples below if your domain is 'acingthekcna.com'
+
+# chz.com/github will redirect to https://github.com/chz
+/giveaway  https://community.kubeskills.com/c/events/kcna-giveaway
+
+# chz.com will redirect to google.com
+/*         https://community.kubeskills.com/c/kcna/
